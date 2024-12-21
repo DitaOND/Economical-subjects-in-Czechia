@@ -1,2 +1,2 @@
-# Ekonomick-subjekty
+# Ekonomické-subjekty
 Engeto power BI projekt
