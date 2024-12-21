@@ -1,2 +1,2 @@
-# Economical_subject_in_Czechia
+# Economical_subjects_in_Czechia
 Engeto power BI projekt
